@@ -1,6 +1,0 @@
-Some of your lines are too long! They are cut down to 10 characters now!
-hello
-My name is
-I am tired
-Today is a
-abcdefghij
