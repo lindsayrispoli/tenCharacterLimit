@@ -1,5 +1,3 @@
-import os
-
 #open the file input and read the file into contents
 f = open("input.txt", 'r')
 contents = f.read().splitlines()
